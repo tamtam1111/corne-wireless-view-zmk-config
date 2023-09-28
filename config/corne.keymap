@@ -55,7 +55,7 @@
             bindings = <
 &kp GRAVE  &kp LS(NUMBER_1)      &kp LS(NUMBER_2)          &kp LS(NUMBER_3)  &kp LS(NUMBER_4)  &kp LS(N5)       &kp LS(NUMBER_6)  &kp LS(NUMBER_7)   &kp LS(RIGHT_BRACKET)  &kp LS(NUMBER_8)  &kp LS(NUMBER_9)          &kp DELETE
 &kp LCTRL  &kp RA(Q)             &kp MINUS                 &kp RA(E)         &kp LS(NUMBER_0)  &kp LS(MINUS)    &kp SLASH         &kp LS(NUMBER_0)   &kp RA(NUMBER_8)       &kp RA(NUMBER_9)  &kp RA(MINUS)             &kp LS(BACKSLASH)
-&kp LSHFT  &kp NON_US_BACKSLASH  &kp LS(NON_US_BACKSLASH)  &kp RA(NUMBER_2)  &kp RA(NUMBER_3)  &kp EQUAL        &kp LS(SLASH)     &kp RIGHT_BRACKET  &kp RA(NUMBER_7)       &kp RA(NUMBER_0)  &kp RA(NON_US_BACKSLASH)  &kp RA(RIGHT_BRACKET)
+&kp LSHFT  &kp NON_US_BACKSLASH  &kp LS(NON_US_BACKSLASH)  &kp RA(NUMBER_2)  &kp BACKSLASH     &kp EQUAL        &kp LS(SLASH)     &kp RIGHT_BRACKET  &kp RA(NUMBER_7)       &kp RA(NUMBER_0)  &kp RA(NON_US_BACKSLASH)  &kp RA(RIGHT_BRACKET)
                                                            &kp LGUI          &trans            &kp SPACE        &kp RET           &trans             &kp RALT
             >;
         };
